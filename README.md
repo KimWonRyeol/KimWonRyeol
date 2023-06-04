@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=300&section=header&text=%20KimWonRyeol%20&fontSize=90&textBg=true"/>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=8B89CC&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <h1>🔍️ About Me</h1>
