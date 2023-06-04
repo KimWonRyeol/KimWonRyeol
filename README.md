@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=8B89CC&height=150&section=header&text=KimWonRyeol&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
 <div align="center">
 <h1>🔍️ About Me</h1>
 <span>
