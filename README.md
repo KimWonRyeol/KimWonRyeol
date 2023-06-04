@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=8B89CC&height=150&section=header&text=KimWonRyeol&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+
+<div align="center">
 <h1>🔍️ About Me</h1>
 <span>
 <a href="https://www.instagram.com/kim_unreal0__0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
@@ -39,4 +41,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF"/>
+</div>
 </span>
