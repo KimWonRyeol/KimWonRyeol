@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20KimWonRyeol%20&fontSize=90&textBg=true" />
-<a><img src="https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/></a>
+<a><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=FFFFFF"/></a>
