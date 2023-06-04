@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20KimWonRyeol%20&fontSize=90&textBg=true" />
-<a><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000"/></a>
-<a><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=FFFFFF"/></a>
+<a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20KimWonRyeol%20&fontSize=90&textBg=true"/>
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=FFFFFF"/></a>
