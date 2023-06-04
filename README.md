@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=8B89CC&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=8B89CC&height=150&section=header&text=KimWonRyeol&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <h1>🔍️ About Me</h1>
 <span>
