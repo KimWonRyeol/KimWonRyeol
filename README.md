@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>Opensource</h2>
 <span>
-<a href="https://www.instagram.com/kim_unreal0__0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0E1128?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
+<a href="https://www.instagram.com/kim_unreal0__0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
