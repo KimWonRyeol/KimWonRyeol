@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20KimWonRyeol%20&fontSize=90&textBg=true" />
+[![Generate Stats Images](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml/badge.svg)](https://github.com/rahul-jha98/github-stats-transparent/actions/workflows/main.yml)
