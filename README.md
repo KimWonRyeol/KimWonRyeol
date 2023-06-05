@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1>🔍️ About Me</h1>
 <span>
 <a href="https://www.instagram.com/kim_unreal0__0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
-<a href="https://robust-farm-c82.notion.site/Portfolio-8f9232bd794a47c7872060ccdebededb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/>
+<a href="https://robust-farm-c82.notion.site/89c3023d4f0246e49157241a5cccd740?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/>
 <a href="https://unreal-kim.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F36D5D?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/>
  <a href="https://www.youtube.com/@user-uk8xk4zo5p" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF"/>
 </span>
